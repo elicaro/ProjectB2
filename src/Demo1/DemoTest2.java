@@ -39,5 +39,6 @@ public class DemoTest2 {
 		}else{
 			System.out.println("Less");
 
-		
+		}	
 	}
+}
