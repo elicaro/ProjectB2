@@ -31,6 +31,15 @@ public class DemoTest2 {
 			System.out.println("wrong day");
 		}
 
+             int x = 10;
+	     int y = 40;
+
+		if(x > y){
+			System.out.println("Greater");
+		}else{
+			System.out.println("Less");
+
+		
 	}
 
 }
